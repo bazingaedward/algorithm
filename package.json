@@ -1,0 +1,15 @@
+{
+  "name": "algorithm",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,vue}": [
+      "eslint --fix"
+    ]
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
