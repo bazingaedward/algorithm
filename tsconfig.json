@@ -35,7 +35,9 @@
     "node_modules/echarts/types/dist/shared",
     "node_modules/.pnpm/@vue+runtime-core@3.3.8/node_modules/@vue/runtime-core/dist/runtime-core.d.ts",
     "auto-imports.d.ts",
-    "components.d.ts"
+    "components.d.ts",
+    "src/leetcode/200-岛屿数量.js",
+    "src/RateLimiter/index.js"
   ],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
